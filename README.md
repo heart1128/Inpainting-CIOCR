@@ -4,6 +4,6 @@
 Data set link: https://github.com/alicex2020/Chinese-Landscape-Painting-Dataset 
 ````
  
-- [ x ] Upload the training code 
+- [x] Upload the training code 
 - [ ] Upload the training model 
 - [ ] Upload data set
